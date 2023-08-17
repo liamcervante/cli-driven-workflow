@@ -1,0 +1,16 @@
+{
+  "values": {
+    "id": {
+      "string": "77BE6E8A-F83F-4664-8353-10D25752B73F"
+    },
+    "string": {
+      "string": "Hello, world!"
+    },
+    "number": {
+      "number": "2014"
+    },
+    "bool": {
+      "boolean": true
+    }
+  }
+}
